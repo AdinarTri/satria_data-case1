@@ -3,7 +3,7 @@
 **Nama Tim:** _FOTOIN QR ABSENNYA WOI!!_
 **Anggota:** _Adinar Tri Panuntun, Muhammad Caesar Rivaldo, Darvesh Gladwin Musyaffa_
 **Institusi:** _Telkom University_
-
+**Link Google Colab:** https://colab.research.google.com/drive/1Fpfz7riOL7mc9-utCIeBeoq51Rv94M_O?usp=sharing
 Submission untuk Case 1 BDC 2026 — klasifikasi multikelas wacana publik di platform X mengenai program Makan Bergizi Gratis (MBG) ke dalam 8 kelas: Anggaran, Kualitas Pangan, Distribusi, Ekonomi, Tata Kelola, Sasaran Penerima, Politik, dan Lainnya.
 
 ---
